@@ -1,7 +1,7 @@
 
 # CRT REPAIR GUIDE
 
-* By: Sumeet Singh @ sumeet-singh.com
+* By: Sumeet Singh
 * Created: September 2024
 * Version: 1.0 (September 2024)
 * Description: This document outlines the CRT (Cathode Ray Tube) technology and how to repair e.g, TV's or Computer Monitors.
